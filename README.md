@@ -4,4 +4,4 @@ This repository will look at functionality and provide examples on how to make t
 
 ## Licence
 
-For the purposes of compliance with LibAtem using the L-GPL, and to keep things open source, this project is licenced under the AGPLv3.
+For the purposes of compliance with LibAtem using the L-GPL, and to keep things open source, this project is licenced under the EU Public License 1.2
