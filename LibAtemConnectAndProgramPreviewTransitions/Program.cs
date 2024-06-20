@@ -90,12 +90,6 @@ using System.Configuration;
 
 namespace LibAtemConnectAndProgramPreviewTransitions
 {
-	public override void 
-	{
-		S_OK = 0,
-		E_FAIL = unchecked((int)0x80004005),
-		E_POINTER = unchecked((int)0x80004003)
-	}
 	class Program
 	{
 		public static void Main(string[] args)
